@@ -1,0 +1,15 @@
+# Ignorar archivos temporales y binarios del proyecto
+
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+*.log
+*.tmp
+*.bak
+*.swp
+.vscode/
+.DS_Store
